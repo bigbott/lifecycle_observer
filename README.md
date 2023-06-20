@@ -1,3 +1,3 @@
 # lifecycle_observer
 
-A new Flutter project.
+Simple project to show how to monitor application life cycle state i.e. if the app is in the background. 
